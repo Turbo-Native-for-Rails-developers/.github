@@ -2,7 +2,7 @@
 
 Hi, I'm Joe, the [Turbo Native guy](https://masilotti.com)! 👋
 
-This organization manages the code for upcoming book, _Turbo Native for Rails developers_.
+This organization manages the code for my upcoming book, _Turbo Native for Rails developers_.
 
 I’m opening up access to beta readers soon. These folks will get early access to the book (for a discounted price) in exchange for detailed feedback.
 
